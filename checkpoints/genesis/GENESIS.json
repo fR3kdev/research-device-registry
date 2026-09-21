@@ -1,0 +1,16 @@
+{
+  "asset_count": 102,
+  "attestation_implementation_commit": "2f2cce3e3ca6f38e273b6a1145561fb606bfd783",
+  "canonical_main_at_genesis": "dcffdbf771ac64a02947068b842d61f7f117d4d6",
+  "created_utc": "2026-09-21T17:55:00Z",
+  "external_anchor": "OpenTimestamps/Bitcoin",
+  "genesis_hash": "f82e99b6a351fc8e17c6d9f25f0e5c08136273750b5d1cd344be2316a113ca46",
+  "public_registry_parent_commit": "40600b2b31647f92488d384c62d8e8fa507ceaff",
+  "registry_sha256": "53d848544f3d4e563633da23e9810ba3db3e76780b01d64636a87ab44e59290e",
+  "schema_version": 1,
+  "signature_ed25519_base64": "IMIZLj0GribbYNzSaBmlh4dO2I+AHMayUeuPplou+UqzQI7e9yE/N000K2RJGIydcx+AW7oVbalETLR2fZ7xDw==",
+  "signer_public_key_sha256": "5b32306aead2dfd99fd9dcdc226c75916de71900b1f5b4519f4ff9b4563557cd",
+  "transparency_contract_sha256": "92c399552c550d3bbad702a8bf3b339379cbe50ef7f8ae95b40258c80424771c",
+  "type": "fr3k-device-registry-genesis",
+  "unresolved_quantity_batches": 5
+}
