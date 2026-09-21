@@ -17,3 +17,7 @@ esp32_review_required: false
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations
 private_companion: true
+attestation:
+  canonical_ledger_path: ledger/devices/20-db-10-w-sma-attenuator-dc-6-ghz-50-ohm-01/
+  public_proof_visibility: signed-checkpoints-only
+  raw_network_identity_public: false

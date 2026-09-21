@@ -18,3 +18,7 @@ esp32_review_required: false
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations
 private_companion: true
+attestation:
+  canonical_ledger_path: ledger/devices/generic-esp32-s3-n16r8-development-board-01/
+  public_proof_visibility: signed-checkpoints-only
+  raw_network_identity_public: false

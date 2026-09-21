@@ -17,3 +17,7 @@ esp32_review_required: true
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations
 private_companion: true
+attestation:
+  canonical_ledger_path: ledger/devices/lilygo-t-display-k230-keyboard-kit-plus-lr2021-module-01/
+  public_proof_visibility: signed-checkpoints-only
+  raw_network_identity_public: false

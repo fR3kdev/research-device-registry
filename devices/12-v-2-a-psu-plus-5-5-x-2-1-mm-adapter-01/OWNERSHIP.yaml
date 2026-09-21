@@ -17,3 +17,7 @@ esp32_review_required: false
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations
 private_companion: true
+attestation:
+  canonical_ledger_path: ledger/devices/12-v-2-a-psu-plus-5-5-x-2-1-mm-adapter-01/
+  public_proof_visibility: signed-checkpoints-only
+  raw_network_identity_public: false
