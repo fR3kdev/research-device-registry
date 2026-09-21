@@ -424,7 +424,7 @@ assets:
   esp32_review_required: false
 - asset_id: outdoor-lte-router-enclosure-ezr33-pcb-ezen-3x-01
   name: Outdoor LTE router, enclosure EZR33 / PCB EZEN-3X
-  state: ON HAND / OBSERVED
+  state: VERIFIED / ON HAND
   category: Networking / field connectivity
   esp32_family: false
   esp32_review_required: false

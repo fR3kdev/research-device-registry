@@ -5,13 +5,15 @@ public_name: Outdoor LTE router, enclosure EZR33 / PCB EZEN-3X
 unit_ordinal: 1
 source_quantity: '1'
 category: Networking / field connectivity
-ownership_state: ON HAND / OBSERVED
+ownership_state: VERIFIED / ON HAND
 ownership_evidence: canonical-user-asserted
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: 2026-09-20 photos show Quectel EP06-E fitted, two 4G antennas and two 2.4G
-  antennas. Firmware/configuration/SIM state remain UNKNOWN pending isolated boot.
+notes: Live-verified 2026-09-22 from GPD as OpenWrt/LuCI gateway branded fR3k5g with
+  Dropbear SSH and lighttpd; prior photos show Quectel EP06-E fitted, two 4G antennas
+  and two 2.4G antennas. Exact OpenWrt build, modem firmware/configuration and SIM
+  state remain pending authenticated inspection.
 live_node_id: null
-live_verified: false
+live_verified: true
 esp32_family: false
 esp32_chipset: null
 esp32_review_required: false
