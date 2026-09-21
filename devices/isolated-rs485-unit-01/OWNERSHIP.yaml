@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: isolated-rs485-unit-01
+owner_handle: fR3k
+public_name: Isolated RS485 Unit
+unit_ordinal: 1
+source_quantity: '2'
+category: M5Stack / embedded / industrial interfaces
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Industrial serial integration.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

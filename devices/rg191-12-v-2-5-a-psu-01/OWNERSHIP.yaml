@@ -1,0 +1,20 @@
+schema_version: 1
+asset_id: rg191-12-v-2-5-a-psu-01
+owner_handle: fR3k
+public_name: RG191 12 V / 2.5 A PSU
+unit_ordinal: 1
+source_quantity: '1'
+category: Networking / field connectivity
+ownership_state: ON HAND / OBSERVED
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Label visible in 2026-09-20 photo evidence; electrical output observed from
+  label, not bench-verified.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

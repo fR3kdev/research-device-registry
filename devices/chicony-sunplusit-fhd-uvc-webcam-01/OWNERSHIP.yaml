@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: chicony-sunplusit-fhd-uvc-webcam-01
+owner_handle: fR3k
+public_name: Chicony/SunplusIT FHD UVC webcam
+unit_ordinal: 1
+source_quantity: '1'
+category: Vision / sensing / display / human interface
+ownership_state: VERIFIED / ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Previously observed on GPD.
+live_node_id: null
+live_verified: true
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

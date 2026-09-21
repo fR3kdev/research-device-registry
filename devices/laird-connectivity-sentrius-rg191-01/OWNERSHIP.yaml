@@ -1,0 +1,23 @@
+schema_version: 1
+asset_id: laird-connectivity-sentrius-rg191-01
+owner_handle: fR3k
+public_name: Laird Connectivity Sentrius RG191
+unit_ordinal: 1
+source_quantity: '1'
+category: Networking / field connectivity
+ownership_state: ON HAND / OBSERVED
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: 'User-supplied 2026-09-20 photo identifies RG191. Same label explicitly shows
+  **Part Number 450-00013, Revision 2** and separately **450-00058, Rev 1** near AU915/AS923.
+  Laird/Ezurio documentation SUPPORTS the relationship: 450-00013 is the common RG191
+  base/sub-assembly identifier and 450-00058 is the Australian 902–928 MHz gateway
+  assembly. Photo not yet archived in repo, so this is not upgraded to VERIFIED.'
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

@@ -1,0 +1,16 @@
+schema_version: 1
+note: Historical candidates are not ownership claims until reconciled.
+candidates:
+- item: RPLIDAR
+  state: UNKNOWN / HISTORY
+  reason: Purchase/research history exists; exact model/current possession unresolved.
+- item: ULCD-32PTU
+  state: UNKNOWN / HISTORY
+  reason: Current possession/state unresolved.
+- item: Other Dell Linux/Windows machines
+  state: UNKNOWN / HISTORY
+  reason: Legacy inventory references multiple systems beyond the specifically named
+    Dell 5550.
+- item: Techo C1102 / T-Echo-class devices
+  state: UNKNOWN / HISTORY
+  reason: Exact brand/model/count remain unresolved.

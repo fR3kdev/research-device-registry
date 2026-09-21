@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: lilygo-t-embed-cc1101-01
+owner_handle: fR3k
+public_name: LILYGO T-Embed CC1101
+unit_ordinal: 1
+source_quantity: '1'
+category: LILYGO / LoRa / embedded radio
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Sub-GHz experimentation platform.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: true
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

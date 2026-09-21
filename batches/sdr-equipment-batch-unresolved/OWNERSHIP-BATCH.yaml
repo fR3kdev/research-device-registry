@@ -1,0 +1,13 @@
+schema_version: 1
+batch_id: sdr-equipment-batch-unresolved
+owner_handle: fR3k
+public_name: SDR equipment
+source_quantity: 1+
+category: RF / test / measurement
+ownership_state: ON HAND / HISTORY
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Exact SDR models still need normalization.
+unitization_required: true
+esp32_family: false
+esp32_chipset: null
+public_metadata_policy: no sensitive identifiers or exact private-network endpoints

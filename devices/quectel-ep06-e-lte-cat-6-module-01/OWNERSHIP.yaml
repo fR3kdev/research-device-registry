@@ -1,0 +1,20 @@
+schema_version: 1
+asset_id: quectel-ep06-e-lte-cat-6-module-01
+owner_handle: fR3k
+public_name: Quectel EP06-E LTE Cat 6 module
+unit_ordinal: 1
+source_quantity: '1'
+category: Networking / field connectivity
+ownership_state: ON HAND / OBSERVED
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Fitted inside EZR33/EZEN-3X router. Manufacturer documentation corroborates
+  EMEA/APAC LTE bands including B28; exact modem firmware and carrier state UNKNOWN.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

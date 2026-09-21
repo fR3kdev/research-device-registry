@@ -1,0 +1,20 @@
+schema_version: 1
+asset_id: outdoor-lte-router-enclosure-ezr33-pcb-ezen-3x-01
+owner_handle: fR3k
+public_name: Outdoor LTE router, enclosure EZR33 / PCB EZEN-3X
+unit_ordinal: 1
+source_quantity: '1'
+category: Networking / field connectivity
+ownership_state: ON HAND / OBSERVED
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: 2026-09-20 photos show Quectel EP06-E fitted, two 4G antennas and two 2.4G
+  antennas. Firmware/configuration/SIM state remain UNKNOWN pending isolated boot.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

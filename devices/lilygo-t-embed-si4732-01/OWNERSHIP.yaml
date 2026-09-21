@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: lilygo-t-embed-si4732-01
+owner_handle: fR3k
+public_name: LILYGO T-Embed SI4732
+unit_ordinal: 1
+source_quantity: '1'
+category: LILYGO / LoRa / embedded radio
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: AM/FM/SSB receiver; transparent shell/case reported.
+live_node_id: null
+live_verified: false
+esp32_family: true
+esp32_chipset: ESP32-S3
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

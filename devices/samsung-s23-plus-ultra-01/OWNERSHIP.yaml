@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: samsung-s23-plus-ultra-01
+owner_handle: fR3k
+public_name: Samsung S23 Plus / Ultra
+unit_ordinal: 1
+source_quantity: '1'
+category: Phones / mobile compute
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Exact variant to reconcile.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

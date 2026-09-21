@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: orange-pi-pc2-v1-1-01
+owner_handle: fR3k
+public_name: Orange Pi PC2 v1.1
+unit_ordinal: 1
+source_quantity: '1'
+category: Primary compute, storage and control
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: SBC.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

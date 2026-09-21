@@ -1,0 +1,14 @@
+schema_version: 1
+batch_id: euc-scooter-spare-parts-batch-unresolved
+owner_handle: fR3k
+public_name: EUC / scooter spare parts
+source_quantity: multiple
+category: Mobility / EUC / donor hardware
+ownership_state: ON HAND
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Controllers, motors, decks, forks, suspension, brakes, throttles, lights, batteries
+  and wiring.
+unitization_required: true
+esp32_family: false
+esp32_chipset: null
+public_metadata_policy: no sensitive identifiers or exact private-network endpoints

@@ -1,0 +1,20 @@
+schema_version: 1
+asset_id: oneplus-7-8-gb-256-gb-01
+owner_handle: fR3k
+public_name: OnePlus 7 8 GB / 256 GB
+unit_ordinal: 1
+source_quantity: '1'
+category: Phones / mobile compute
+ownership_state: VERIFIED / ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Live-verified 2026-09-22 as GM1900 / OnePlus7; FR3K Git worker, CORTEX/HUD
+  and delegated prework active.
+live_node_id: oneplus7
+live_verified: true
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

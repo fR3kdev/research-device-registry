@@ -1,0 +1,618 @@
+schema_version: 1
+updated: '2026-09-22'
+owner_handle: fR3k
+canonical_repo: fR3kdev/research
+public_mirror_repo: fR3kdev/research-device-registry
+private_companion_repo: fR3kdev/research-device-registry-private
+individual_asset_records: 98
+unresolved_quantity_batches: 5
+assets:
+- asset_id: gpd-win-mini-2024-ryzen-7-8840u-radeon-780m-01
+  name: GPD Win Mini 2024, Ryzen 7 8840U / Radeon 780M
+  state: VERIFIED / ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: rtx-3060-12-gb-desktop-system-01
+  name: RTX 3060 12 GB desktop/system
+  state: VERIFIED / ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: raspberry-pi-500-01
+  name: Raspberry Pi 500
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: radxa-pi-4c-01
+  name: Radxa Pi 4C
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: orange-pi-pc2-v1-1-01
+  name: Orange Pi PC2 v1.1
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: gpd-micro-pc-01
+  name: GPD Micro PC
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: lenovo-ideapad-chromebook-3-cb11geo05-01
+  name: Lenovo IdeaPad Chromebook 3 CB11GEO05
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: dell-5550-01
+  name: Dell 5550
+  state: VERIFIED / ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: nvme-drives-01
+  name: NVMe drives
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: nvme-drives-02
+  name: NVMe drives
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: nvme-drives-03
+  name: NVMe drives
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: nvme-drives-04
+  name: NVMe drives
+  state: ON HAND
+  category: Primary compute, storage and control
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: oneplus-7-pro-8-gb-256-gb-01
+  name: OnePlus 7 Pro 8 GB / 256 GB
+  state: VERIFIED / ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: oneplus-7-8-gb-256-gb-01
+  name: OnePlus 7 8 GB / 256 GB
+  state: VERIFIED / ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: oneplus-6-01
+  name: OnePlus 6
+  state: ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: pixel-7-pro-01
+  name: Pixel 7 Pro
+  state: ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: samsung-s22-ultra-01
+  name: Samsung S22 Ultra
+  state: ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: samsung-s23-plus-ultra-01
+  name: Samsung S23 Plus / Ultra
+  state: ON HAND
+  category: Phones / mobile compute
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: lilygo-t-deck-plus-01
+  name: LILYGO T-Deck Plus
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-watch-ultra-01
+  name: LILYGO T-Watch Ultra
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-watch-2020-01
+  name: LILYGO T-Watch 2020
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-embed-si4732-01
+  name: LILYGO T-Embed SI4732
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: lilygo-t-embed-cc1101-01
+  name: LILYGO T-Embed CC1101
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-display-k230-keyboard-kit-plus-lr2021-module-01
+  name: LILYGO T-Display K230 keyboard kit + LR2021 module
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-display-p4-01
+  name: LILYGO T-Display P4
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-beam-1w-915-mhz-01
+  name: LILYGO T-Beam 1W 915 MHz
+  state: ON HAND
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: lilygo-t-display-s3-01
+  name: LILYGO T-Display S3
+  state: BROKEN
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: seeed-studio-t1000-e-01
+  name: Seeed Studio T1000-E
+  state: MISSING
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: cardputer-mesh-kit-01
+  name: Cardputer Mesh Kit
+  state: BROKEN
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: m5stack-tab5-01
+  name: M5Stack Tab5
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: tab5-keyboard-01
+  name: Tab5 keyboard
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: m5stamp-uwb-01
+  name: M5Stamp UWB
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: m5stamp-uwb-02
+  name: M5Stamp UWB
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: esp32-p4-poe-unit-01
+  name: ESP32-P4 PoE Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: esp32-p4-poe-unit-02
+  name: ESP32-P4 PoE Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: roller485-bldc-motor-unit-01
+  name: Roller485 BLDC motor unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: canbus-unit-01
+  name: CANBus Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: canbus-unit-02
+  name: CANBus Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: isolated-rs485-unit-01
+  name: Isolated RS485 Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: isolated-rs485-unit-02
+  name: Isolated RS485 Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: i2c-1-to-6-hub-01
+  name: I2C 1-to-6 hub
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: usb-c-to-grove-unit-01
+  name: USB-C-to-Grove Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: usb-c-to-grove-unit-02
+  name: USB-C-to-Grove Unit
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: unihiker-k10-01
+  name: UNIHIKER K10
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: unihiker-k10-02
+  name: UNIHIKER K10
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: unihiker-k10-expansion-board-01
+  name: UNIHIKER K10 expansion board
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: true
+- asset_id: waveshare-pico-epaper-2-13-plus-2-13-inch-e-paper-b-v4-01
+  name: Waveshare Pico-ePaper-2.13 + 2.13-inch e-Paper (B) V4
+  state: ON HAND
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: ulcd-32ptu-01
+  name: ULCD-32PTU
+  state: UNKNOWN / HISTORY
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: nanovna-v2-plus4-01
+  name: NanoVNA V2 Plus4
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: tinysa-ultra-plus-01
+  name: tinySA ULTRA+
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: emc-emi-probe-set-01
+  name: EMC/EMI probe set
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 30-db-directional-coupler-01
+  name: 30 dB directional coupler
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 20-db-10-w-sma-attenuator-dc-6-ghz-50-ohm-01
+  name: 20 dB 10 W SMA attenuator, DC-6 GHz, 50 ohm
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 30-db-10-w-sma-attenuator-dc-6-ghz-50-ohm-01
+  name: 30 dB 10 W SMA attenuator, DC-6 GHz, 50 ohm
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 10-w-50-ohm-sma-dummy-load-01
+  name: 10 W 50 ohm SMA dummy load
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: rf-calibration-kit-dc-6-ghz-sma-open-short-thru-load-01
+  name: RF calibration kit DC-6 GHz SMA, Open/Short/Thru/Load
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 50-w-uhf-pl-259m-50-ohm-dummy-load-dc-500-mhz-01
+  name: 50 W UHF PL-259M 50 ohm dummy load, DC-500 MHz
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: hepzest-915-mhz-5-dbi-sma-male-antenna-plus-cable-01
+  name: Hepzest 915 MHz 5 dBi SMA-male antenna + cable
+  state: ON HAND
+  category: RF / test / measurement
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: alfa-awus036ach-01
+  name: Alfa AWUS036ACH
+  state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: gl-inet-opal-gl-sft1200-01
+  name: GL.iNet Opal GL-SFT1200
+  state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: mercusys-ms105gp-poe-plus-switch-01
+  name: Mercusys MS105GP PoE+ switch
+  state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 12-v-2-a-psu-plus-5-5-x-2-1-mm-adapter-01
+  name: 12 V 2 A PSU + 5.5 x 2.1 mm adapter
+  state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: wismesh-repeater-mini-01
+  name: Wismesh Repeater Mini
+  state: ON HAND / HISTORY
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: antsig-ap9000-01
+  name: Antsig AP9000
+  state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: laird-connectivity-sentrius-rg191-01
+  name: Laird Connectivity Sentrius RG191
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: outdoor-lte-router-enclosure-ezr33-pcb-ezen-3x-01
+  name: Outdoor LTE router, enclosure EZR33 / PCB EZEN-3X
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: quectel-ep06-e-lte-cat-6-module-01
+  name: Quectel EP06-E LTE Cat 6 module
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: rg191-12-v-2-5-a-psu-01
+  name: RG191 12 V / 2.5 A PSU
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: ezt4805p-passive-poe-injector-01
+  name: EZT4805P passive PoE injector
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: large-white-outdoor-rf-antenna-01
+  name: Large white outdoor RF antenna
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: mlx90640-thermal-camera-01
+  name: MLX90640 Thermal Camera
+  state: ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: mlx90640-thermal-camera-02
+  name: MLX90640 Thermal Camera
+  state: ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: viture-glasses-01
+  name: VITURE glasses
+  state: ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: guermok-hdmi-to-usb-c-video-adapter-01
+  name: Guermok HDMI-to-USB-C video adapter
+  state: ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: logitech-m570-wireless-trackball-01
+  name: Logitech M570 wireless trackball
+  state: ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: logitech-mx-ergo-trackball-01
+  name: Logitech MX Ergo trackball
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: logitech-k120-keyboard-01
+  name: Logitech K120 keyboard
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: xbox-360-wired-controller-01
+  name: Xbox 360 wired controller
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: philips-499p9-49-inch-32-9-monitor-01
+  name: Philips 499P9 49-inch 32:9 monitor
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: chicony-sunplusit-fhd-uvc-webcam-01
+  name: Chicony/SunplusIT FHD UVC webcam
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: realtek-usb-audio-01
+  name: Realtek USB Audio
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: realtek-rtl8153-gigabit-ethernet-adapter-01
+  name: Realtek RTL8153 Gigabit Ethernet adapter
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: logitech-unifying-receiver-01
+  name: Logitech Unifying Receiver
+  state: VERIFIED / ON HAND
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: yichip-wireless-device-01
+  name: YICHIP Wireless Device
+  state: VERIFIED / IDENTITY UNKNOWN
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: spotpear-golfball-screen-device-01
+  name: Spotpear Golfball screen/device
+  state: BROKEN
+  category: Vision / sensing / display / human interface
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: reachy-mini-robot-01
+  name: Reachy Mini robot
+  state: ON HAND
+  category: Robotics
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: kingsong-16s-01
+  name: KingSong 16S
+  state: ON HAND
+  category: Mobility / EUC / donor hardware
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: kingsong-14s-01
+  name: KingSong 14S
+  state: ON HAND / DAMAGED
+  category: Mobility / EUC / donor hardware
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: begode-mten-01
+  name: Begode MTen
+  state: BROKEN
+  category: Mobility / EUC / donor hardware
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: cygnett-25-000-mah-power-bank-01
+  name: Cygnett 25,000 mAh power bank
+  state: ON HAND
+  category: Power / batteries / accessories
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: 5-000-mah-power-bank-mb3826-01
+  name: 5,000 mAh power bank MB3826
+  state: ON HAND
+  category: Power / batteries / accessories
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: iproda-pd182kpn-01
+  name: iProda PD182KPN
+  state: ON HAND
+  category: Power / batteries / accessories
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: np-f550-battery-pack-01
+  name: NP-F550 battery pack
+  state: ON HAND
+  category: Power / batteries / accessories
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: acme-low-b2-01
+  name: Acme Low B2
+  state: ON HAND
+  category: Audio
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: acme-low-b2-02
+  name: Acme Low B2
+  state: ON HAND
+  category: Audio
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: gl-inet-beryl-ax-gl-mt3000-01
+  name: GL.iNet Beryl AX GL-MT3000
+  state: EXPECTED
+  category: Audio
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: m5stack-stamp-c5-dip-01
+  name: M5Stack Stamp-C5 DIP
+  state: EXPECTED / TO CONFIRM
+  category: Audio
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: m5stack-stamp-c5-dip-02
+  name: M5Stack Stamp-C5 DIP
+  state: EXPECTED / TO CONFIRM
+  category: Audio
+  esp32_family: true
+  esp32_review_required: false
+batches:
+- batch_id: esp32-s3-display-boards-batch-unresolved
+  name: ESP32-S3 display boards
+  quantity: multiple
+  esp32_family: true
+- batch_id: sdr-equipment-batch-unresolved
+  name: SDR equipment
+  quantity: 1+
+  esp32_family: false
+- batch_id: 915-mhz-antennas-cables-adapters-batch-unresolved
+  name: 915 MHz antennas / cables / adapters
+  quantity: multiple
+  esp32_family: false
+- batch_id: euc-scooter-spare-parts-batch-unresolved
+  name: EUC / scooter spare parts
+  quantity: multiple
+  esp32_family: false
+- batch_id: microsd-cards-batch-unresolved
+  name: microSD cards
+  quantity: multiple
+  esp32_family: false

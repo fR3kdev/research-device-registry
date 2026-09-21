@@ -1,0 +1,13 @@
+schema_version: 1
+batch_id: microsd-cards-batch-unresolved
+owner_handle: fR3k
+public_name: microSD cards
+source_quantity: multiple
+category: Power / batteries / accessories
+ownership_state: ON HAND / MIXED
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Includes cards used in SBC/device histories; exact sizes/health need reconciliation.
+unitization_required: true
+esp32_family: false
+esp32_chipset: null
+public_metadata_policy: no sensitive identifiers or exact private-network endpoints

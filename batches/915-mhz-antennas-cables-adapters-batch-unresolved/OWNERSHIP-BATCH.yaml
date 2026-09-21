@@ -1,0 +1,13 @@
+schema_version: 1
+batch_id: 915-mhz-antennas-cables-adapters-batch-unresolved
+owner_handle: fR3k
+public_name: 915 MHz antennas / cables / adapters
+source_quantity: multiple
+category: RF / test / measurement
+ownership_state: ON HAND
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Exact gains/connectors need normalization.
+unitization_required: true
+esp32_family: false
+esp32_chipset: null
+public_metadata_policy: no sensitive identifiers or exact private-network endpoints

@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: 50-w-uhf-pl-259m-50-ohm-dummy-load-dc-500-mhz-01
+owner_handle: fR3k
+public_name: 50 W UHF PL-259M 50 ohm dummy load, DC-500 MHz
+unit_ordinal: 1
+source_quantity: '1'
+category: RF / test / measurement
+ownership_state: ON HAND
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: RF lab.
+live_node_id: null
+live_verified: false
+esp32_family: false
+esp32_chipset: null
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true

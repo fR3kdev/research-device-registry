@@ -1,0 +1,13 @@
+schema_version: 1
+batch_id: esp32-s3-display-boards-batch-unresolved
+owner_handle: fR3k
+public_name: ESP32-S3 display boards
+source_quantity: multiple
+category: M5Stack / embedded / industrial interfaces
+ownership_state: ON HAND / HISTORY
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: 3.5/4-inch LVGL boards; exact variants need normalization.
+unitization_required: true
+esp32_family: true
+esp32_chipset: ESP32-S3
+public_metadata_policy: no sensitive identifiers or exact private-network endpoints

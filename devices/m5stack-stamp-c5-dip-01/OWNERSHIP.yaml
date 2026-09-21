@@ -1,0 +1,19 @@
+schema_version: 1
+asset_id: m5stack-stamp-c5-dip-01
+owner_handle: fR3k
+public_name: M5Stack Stamp-C5 DIP
+unit_ordinal: 1
+source_quantity: '2'
+category: Audio
+ownership_state: EXPECTED / TO CONFIRM
+ownership_evidence: canonical-user-asserted
+canonical_source: scopes/hardware/ASSET-STATE.md
+notes: Previously reported ordered; arrival not confirmed in current durable evidence.
+live_node_id: null
+live_verified: false
+esp32_family: true
+esp32_chipset: ESP32-C5
+esp32_review_required: false
+public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
+  credentials, or precise storage locations
+private_companion: true
