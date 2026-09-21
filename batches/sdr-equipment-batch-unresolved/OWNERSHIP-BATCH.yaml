@@ -10,4 +10,5 @@ notes: Exact SDR models still need normalization.
 unitization_required: true
 esp32_family: false
 esp32_chipset: null
+esp32_review_required: false
 public_metadata_policy: no sensitive identifiers or exact private-network endpoints

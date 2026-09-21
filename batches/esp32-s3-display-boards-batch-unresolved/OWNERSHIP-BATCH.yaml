@@ -6,8 +6,11 @@ source_quantity: multiple
 category: M5Stack / embedded / industrial interfaces
 ownership_state: ON HAND / HISTORY
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: 3.5/4-inch LVGL boards; exact variants need normalization.
+notes: Remaining 3.5/4-inch LVGL board batch; exact count/variants still need unitization.
+  Separately identified Commendi and N16R8 units are excluded from this unresolved
+  remainder.
 unitization_required: true
 esp32_family: true
 esp32_chipset: ESP32-S3
+esp32_review_required: false
 public_metadata_policy: no sensitive identifiers or exact private-network endpoints

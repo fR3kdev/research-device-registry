@@ -1,18 +1,19 @@
 schema_version: 1
-asset_id: unihiker-k10-expansion-board-01
+asset_id: generic-esp32-s3-n16r8-development-board-01
 owner_handle: fR3k
-public_name: UNIHIKER K10 expansion board
+public_name: Generic ESP32-S3 N16R8 development board
 unit_ordinal: 1
 source_quantity: '1'
 category: M5Stack / embedded / industrial interfaces
-ownership_state: ON HAND
+ownership_state: ON HAND / HISTORY
 ownership_evidence: canonical-user-asserted
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: K10 expansion.
+notes: Prior user-reported electronics-pack board; ESP32-S3 N16R8. Exact vendor/PCB
+  model unresolved.
 live_node_id: null
 live_verified: false
-esp32_family: false
-esp32_chipset: null
+esp32_family: true
+esp32_chipset: ESP32-S3
 esp32_review_required: false
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations

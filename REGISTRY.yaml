@@ -4,7 +4,7 @@ owner_handle: fR3k
 canonical_repo: fR3kdev/research
 public_mirror_repo: fR3kdev/research-device-registry
 private_companion_repo: fR3kdev/research-device-registry-private
-individual_asset_records: 98
+individual_asset_records: 102
 unresolved_quantity_batches: 5
 assets:
 - asset_id: gpd-win-mini-2024-ryzen-7-8840u-radeon-780m-01
@@ -119,8 +119,14 @@ assets:
   name: LILYGO T-Deck Plus
   state: ON HAND
   category: LILYGO / LoRa / embedded radio
-  esp32_family: false
-  esp32_review_required: true
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: lilygo-t-deck-pro-4g-01
+  name: LILYGO T-Deck Pro 4G
+  state: ON HAND / HISTORY
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: true
+  esp32_review_required: false
 - asset_id: lilygo-t-watch-ultra-01
   name: LILYGO T-Watch Ultra
   state: ON HAND
@@ -169,6 +175,12 @@ assets:
   category: LILYGO / LoRa / embedded radio
   esp32_family: true
   esp32_review_required: false
+- asset_id: lilygo-t-glass-01
+  name: LILYGO T-Glass
+  state: ON HAND / HISTORY
+  category: LILYGO / LoRa / embedded radio
+  esp32_family: false
+  esp32_review_required: true
 - asset_id: seeed-studio-t1000-e-01
   name: Seeed Studio T1000-E
   state: MISSING
@@ -269,25 +281,38 @@ assets:
   name: UNIHIKER K10
   state: ON HAND
   category: M5Stack / embedded / industrial interfaces
-  esp32_family: false
-  esp32_review_required: true
+  esp32_family: true
+  esp32_review_required: false
 - asset_id: unihiker-k10-02
   name: UNIHIKER K10
   state: ON HAND
   category: M5Stack / embedded / industrial interfaces
-  esp32_family: false
-  esp32_review_required: true
+  esp32_family: true
+  esp32_review_required: false
 - asset_id: unihiker-k10-expansion-board-01
   name: UNIHIKER K10 expansion board
   state: ON HAND
   category: M5Stack / embedded / industrial interfaces
   esp32_family: false
-  esp32_review_required: true
+  esp32_review_required: false
 - asset_id: waveshare-pico-epaper-2-13-plus-2-13-inch-e-paper-b-v4-01
   name: Waveshare Pico-ePaper-2.13 + 2.13-inch e-Paper (B) V4
   state: ON HAND
   category: M5Stack / embedded / industrial interfaces
   esp32_family: false
+  esp32_review_required: false
+- asset_id: commendi-esp32-s3-3-5-inch-capacitive-touch-display-jc3248w535-jc3248w53-01
+  name: Commendi ESP32-S3 3.5-inch capacitive touch display (JC3248W535/JC3248W535C
+    family)
+  state: ON HAND / HISTORY
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: true
+  esp32_review_required: false
+- asset_id: generic-esp32-s3-n16r8-development-board-01
+  name: Generic ESP32-S3 N16R8 development board
+  state: ON HAND / HISTORY
+  category: M5Stack / embedded / industrial interfaces
+  esp32_family: true
   esp32_review_required: false
 - asset_id: ulcd-32ptu-01
   name: ULCD-32PTU
@@ -600,19 +625,24 @@ batches:
   name: ESP32-S3 display boards
   quantity: multiple
   esp32_family: true
+  esp32_review_required: false
 - batch_id: sdr-equipment-batch-unresolved
   name: SDR equipment
   quantity: 1+
   esp32_family: false
+  esp32_review_required: false
 - batch_id: 915-mhz-antennas-cables-adapters-batch-unresolved
   name: 915 MHz antennas / cables / adapters
   quantity: multiple
   esp32_family: false
+  esp32_review_required: false
 - batch_id: euc-scooter-spare-parts-batch-unresolved
   name: EUC / scooter spare parts
   quantity: multiple
   esp32_family: false
+  esp32_review_required: false
 - batch_id: microsd-cards-batch-unresolved
   name: microSD cards
   quantity: multiple
   esp32_family: false
+  esp32_review_required: false

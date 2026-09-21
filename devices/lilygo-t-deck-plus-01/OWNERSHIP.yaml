@@ -11,9 +11,9 @@ canonical_source: scopes/hardware/ASSET-STATE.md
 notes: BLACKWAVE Analyst target.
 live_node_id: null
 live_verified: false
-esp32_family: false
-esp32_chipset: null
-esp32_review_required: true
+esp32_family: true
+esp32_chipset: ESP32-S3
+esp32_review_required: false
 public_metadata_policy: no serials, MACs, IMEIs, exact private-network endpoints,
   credentials, or precise storage locations
 private_companion: true
