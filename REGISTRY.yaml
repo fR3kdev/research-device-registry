@@ -1,10 +1,10 @@
 schema_version: 1
-updated: '2026-09-22'
+updated: '2026-09-24'
 owner_handle: fR3k
 canonical_repo: fR3kdev/research
 public_mirror_repo: fR3kdev/research-device-registry
 private_companion_repo: fR3kdev/research-device-registry-private
-individual_asset_records: 102
+individual_asset_records: 100
 unresolved_quantity_batches: 5
 assets:
 - asset_id: gpd-win-mini-2024-ryzen-7-8840u-radeon-780m-01
@@ -604,21 +604,9 @@ assets:
   esp32_review_required: false
 - asset_id: gl-inet-beryl-ax-gl-mt3000-01
   name: GL.iNet Beryl AX GL-MT3000
-  state: EXPECTED
-  category: Audio
+  state: ON HAND / OBSERVED
+  category: Networking / field connectivity
   esp32_family: false
-  esp32_review_required: false
-- asset_id: m5stack-stamp-c5-dip-01
-  name: M5Stack Stamp-C5 DIP
-  state: EXPECTED / TO CONFIRM
-  category: Audio
-  esp32_family: true
-  esp32_review_required: false
-- asset_id: m5stack-stamp-c5-dip-02
-  name: M5Stack Stamp-C5 DIP
-  state: EXPECTED / TO CONFIRM
-  category: Audio
-  esp32_family: true
   esp32_review_required: false
 batches:
 - batch_id: esp32-s3-display-boards-batch-unresolved
