@@ -9,8 +9,9 @@ candidates:
   reason: Current possession/state unresolved.
 - item: Other Dell Linux/Windows machines
   state: UNKNOWN / HISTORY
-  reason: Legacy inventory references multiple systems beyond the specifically named
-    Dell 5550.
+  reason: Legacy inventory references other systems; current possession/identity remains
+    unresolved. The former Dell 5550 is separately recorded below as transferred/not
+    owned.
 - item: Techo C1102 / T-Echo-class devices
   state: UNKNOWN / HISTORY
   reason: Exact brand/model/count remain unresolved.

@@ -1,6 +1,6 @@
 # Per-device ownership registry
 
-Individual unit records: 100
+Individual unit records: 99
 
 Unresolved-count batches: 5
 

@@ -8,7 +8,9 @@ category: Networking / field connectivity
 ownership_state: ON HAND / OBSERVED
 ownership_evidence: canonical-user-asserted
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: User-supplied photo 2026-09-24 identifies GL-MT3000 / AX3000 WiFi 6 Router; operator confirms possession. Explicitly excluded from Mount Cook mission.
+notes: 'User-supplied photo 2026-09-24 clearly shows bottom label: GL-MT3000 / AX3000
+  WiFi 6 Router; operator confirms possession. Explicitly excluded from Mount Cook
+  mission.'
 live_node_id: null
 live_verified: false
 esp32_family: false

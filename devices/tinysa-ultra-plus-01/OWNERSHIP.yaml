@@ -5,10 +5,11 @@ public_name: tinySA ULTRA+
 unit_ordinal: 1
 source_quantity: '1'
 category: RF / test / measurement
-ownership_state: ON HAND
+ownership_state: ON HAND / OBSERVED
 ownership_evidence: canonical-user-asserted
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: Spectrum analyzer.
+notes: Spectrum analyzer; operator reconfirmed possession 2026-09-24. Prior photo
+  evidence identifies tinySA ULTRA+ hardware.
 live_node_id: null
 live_verified: false
 esp32_family: false
@@ -21,3 +22,5 @@ attestation:
   canonical_ledger_path: ledger/devices/tinysa-ultra-plus-01/
   public_proof_visibility: signed-checkpoints-only
   raw_network_identity_public: false
+
+[executed on device: gpd (cc96143d-f0fe-4186-95a1-6f0e683391fd)]

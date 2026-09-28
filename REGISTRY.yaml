@@ -1,10 +1,10 @@
 schema_version: 1
-updated: '2026-09-24'
+updated: '2026-09-22'
 owner_handle: fR3k
 canonical_repo: fR3kdev/research
 public_mirror_repo: fR3kdev/research-device-registry
 private_companion_repo: fR3kdev/research-device-registry-private
-individual_asset_records: 100
+individual_asset_records: 99
 unresolved_quantity_batches: 5
 assets:
 - asset_id: gpd-win-mini-2024-ryzen-7-8840u-radeon-780m-01
@@ -46,12 +46,6 @@ assets:
 - asset_id: lenovo-ideapad-chromebook-3-cb11geo05-01
   name: Lenovo IdeaPad Chromebook 3 CB11GEO05
   state: ON HAND
-  category: Primary compute, storage and control
-  esp32_family: false
-  esp32_review_required: false
-- asset_id: dell-5550-01
-  name: Dell 5550
-  state: VERIFIED / ON HAND
   category: Primary compute, storage and control
   esp32_family: false
   esp32_review_required: false
@@ -322,19 +316,19 @@ assets:
   esp32_review_required: false
 - asset_id: nanovna-v2-plus4-01
   name: NanoVNA V2 Plus4
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
 - asset_id: tinysa-ultra-plus-01
   name: tinySA ULTRA+
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
 - asset_id: emc-emi-probe-set-01
   name: EMC/EMI probe set
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
@@ -346,19 +340,19 @@ assets:
   esp32_review_required: false
 - asset_id: 20-db-10-w-sma-attenuator-dc-6-ghz-50-ohm-01
   name: 20 dB 10 W SMA attenuator, DC-6 GHz, 50 ohm
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
 - asset_id: 30-db-10-w-sma-attenuator-dc-6-ghz-50-ohm-01
   name: 30 dB 10 W SMA attenuator, DC-6 GHz, 50 ohm
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
 - asset_id: 10-w-50-ohm-sma-dummy-load-01
   name: 10 W 50 ohm SMA dummy load
-  state: ON HAND
+  state: ON HAND / OBSERVED
   category: RF / test / measurement
   esp32_family: false
   esp32_review_required: false
@@ -389,6 +383,12 @@ assets:
 - asset_id: gl-inet-opal-gl-sft1200-01
   name: GL.iNet Opal GL-SFT1200
   state: ON HAND
+  category: Networking / field connectivity
+  esp32_family: false
+  esp32_review_required: false
+- asset_id: gl-inet-beryl-ax-gl-mt3000-01
+  name: GL.iNet Beryl AX GL-MT3000
+  state: ON HAND / OBSERVED
   category: Networking / field connectivity
   esp32_family: false
   esp32_review_required: false
@@ -600,12 +600,6 @@ assets:
   name: Acme Low B2
   state: ON HAND
   category: Audio
-  esp32_family: false
-  esp32_review_required: false
-- asset_id: gl-inet-beryl-ax-gl-mt3000-01
-  name: GL.iNet Beryl AX GL-MT3000
-  state: ON HAND / OBSERVED
-  category: Networking / field connectivity
   esp32_family: false
   esp32_review_required: false
 batches:

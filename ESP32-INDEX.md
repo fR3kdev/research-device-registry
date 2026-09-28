@@ -14,8 +14,6 @@ This index prevents ESP32-class hardware from disappearing inside the broader as
 - unihiker-k10-02 — UNIHIKER K10 (ESP32-S3)
 - commendi-esp32-s3-3-5-inch-capacitive-touch-display-jc3248w535-jc3248w53-01 — Commendi ESP32-S3 3.5-inch capacitive touch display (JC3248W535/JC3248W535C family) (ESP32-S3)
 - generic-esp32-s3-n16r8-development-board-01 — Generic ESP32-S3 N16R8 development board (ESP32-S3)
-- m5stack-stamp-c5-dip-01 — M5Stack Stamp-C5 DIP (ESP32-C5)
-- m5stack-stamp-c5-dip-02 — M5Stack Stamp-C5 DIP (ESP32-C5)
 - esp32-s3-display-boards-batch-unresolved — ESP32-S3 display boards (ESP32-S3), UNITIZATION REQUIRED
 
 ## Embedded devices requiring chipset confirmation

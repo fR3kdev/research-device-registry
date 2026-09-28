@@ -5,10 +5,11 @@ public_name: NanoVNA V2 Plus4
 unit_ordinal: 1
 source_quantity: '1'
 category: RF / test / measurement
-ownership_state: ON HAND
+ownership_state: ON HAND / OBSERVED
 ownership_evidence: canonical-user-asserted
 canonical_source: scopes/hardware/ASSET-STATE.md
-notes: VNA.
+notes: VNA; present in user-supplied photo 2026-09-24 and explicitly confirmed by
+  operator.
 live_node_id: null
 live_verified: false
 esp32_family: false
